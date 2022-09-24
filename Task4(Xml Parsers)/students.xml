@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student ID="1">
+        <name>Анисимов</name>
+        <age>19</age>
+        <average_score>100</average_score>
+    </student>
+    <student ID="2">
+        <name>Лебедев</name>
+        <age>16</age>
+        <average_score>90</average_score>
+    </student>
+    <student ID="3">
+        <name>Битюков</name>
+        <age>21</age>
+        <average_score>120</average_score>
+    </student>
+    <student ID="4">
+        <name>Лунёв</name>
+        <age>15</age>
+        <average_score>50</average_score>
+    </student>
+    <student ID="5">
+        <name>Иванин</name>
+        <age>17</age>
+        <average_score>100</average_score>
+    </student>
+</students>
